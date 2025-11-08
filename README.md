@@ -6,9 +6,8 @@ Each assignment is placed in its own folder with code files and a per-assignment
 ---
 
 ## 📁 Assignments
-- [Assignment 01 — Basic Python Concepts](./Assignment-01_Basics/README.md)
-- [Assignment 02 — Lists & Tuples](./Assignment-02_Lists/README.md)
-- [Assignment 03 — Conditionals & Loops](./Assignment-03_Conditions/README.md)
+- [Assignment 01 — Basic Python Concepts](./Assignment-01_python_basic_concept/README.md)
+- [Assignment 02 — Control Structures in Python](./Assignment-02_Control_Structures/README.md)
 <!-- new assignments  coming soon -->
 
 ---
