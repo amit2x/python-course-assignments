@@ -12,7 +12,7 @@ try:
 
     # Handle division safely
     if num2 != 0:
-        division = num1 / num2
+        division = float(num1 / num2)
     else:
         division = "Undefined (Cannot divide by zero)"
 
