@@ -9,7 +9,7 @@ This assignment contains two Python programs demonstrating the use of functions,
 | File Name | Description |
 |------------|-------------|
 | `factorial.py` | Calculates the factorial of a given number using both recursive and iterative methods. Handles invalid inputs and large numbers. |
-| `math_operations.py` | Uses Python’s `math` module to compute square root, natural logarithm (ln), and sine (in radians) of a given number. |
+| `module_math.py` | Uses Python’s `math` module to compute square root, natural logarithm (ln), and sine (in radians) of a given number. |
 
 ---
 
@@ -37,7 +37,7 @@ Exiting program. Thank you!
 
 ---
 
-## 🧮 math_operations.py — Math Module Program
+## 🧮 module_math.py — Math Module Program
 
 ### Description
 - Accepts a number from the user.  
